@@ -10,3 +10,18 @@
   <span style="color:#6E4C13">⚙️ Assembly</span><br>
   <span style="color:#00ADD8">🐹 Go</span><br>
 </p>
+# 🧠 Terminal Log
+
+```bash
+┌──(xpomocoma㉿xakepa)-[~]
+└─$ whoami
+black_hat
+
+┌──(xpomocoma㉿xakepa)-[~]
+└─$ cat skills.txt
+Languages: [ Python, C, C++, JS, PHP, Bash, Assembly, Go ]
+![Kali](https://img.shields.io/badge/-Kali_Linux-black?style=flat&logo=kalilinux)
+![Tor](https://img.shields.io/badge/-Tor-7E4798?style=flat&logo=tor-project)
+![GNU Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnubash)
+![Nmap](https://img.shields.io/badge/-Nmap-darkblue?style=flat)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit)
