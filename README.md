@@ -11,5 +11,5 @@
   <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
 </p>
-██╗ ██╗██████╗ ██████╗ ███╗ ███╗ ██████╗ ██████╗ ███╗ ███╗ █████╗ 
-                         fuck society.
+██╗ ██╗██████╗ ██████╗ ███╗ ███╗ ██████╗ ██████╗ ███╗ █ 
+.                         fuck society.
